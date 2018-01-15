@@ -1,0 +1,163 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ .menu {
+   background: #fff;
+   border: #fff;
+   font-size: 1em;
+ }
+
+.img-taxi {
+  background: #f7b617;
+  color: white;
+  font-size:2em;
+  height: 60vh;
+  margin-top: 100px;
+}
+
+.img-taxi > span > img {
+  width: 30%;
+}
+
+.img-taxi > h2 {
+  font-size: 1em;
+}
+
+.taxi {
+  background-image: url("../assets/images/taxi.jpg");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
+
+ .letter-small {
+   font-size: .3em;
+ }
+
+ .viaja {
+   background: #f7b617;
+   color: white;
+   font-size:2em;
+   height: 50vh;
+   margin-top: 100px;
+ }
+
+.border-white {
+  color: white;
+  height: 60vh;
+  letter-spacing: 2px;
+  padding: 17px;
+  font-size: 1em;
+  /*margin-top: 10vh;*/
+  width: 80%;
+
+}
+
+.background-yellow {
+  background:#f7b617;
+  height: 90vh;
+  color: white;
+}
+
+.iphone {
+  padding-top: 40px;
+  height:80vh;
+}
+
+.img-fluid {
+  width: 60%;
+  z-index: auto;
+}
+
+.text-iphone{
+  padding-top: 30px;
+}
+
+.conduce {
+  background-image: url("../assets/images/conduce.jpg");
+  color: white;
+  height: 70vh;
+  font-size: 1em;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
+
+.conduce-letter {
+  border: 1px solid white;
+  height: 40vh;
+  letter-spacing: 2px;
+  padding: 25px;
+  padding: 10px;
+  opacity: 0.4;
+  background: black;
+}
+
+.button-conduce {
+  margin-top:30px;
+}
+
+.button-yellow > button {
+background-color:#f7b617;
+color: white;
+}
+
+.tarifas {
+  margin-top: 100px;
+  color: white;
+  font-size: 1em;
+}
+
+.img-map {
+    border: 1px solid white;
+    margin-top: 50px;
+    height: auto;
+}
+
+.img-map > img {
+  width: 100%;
+  height: auto;
+  padding-top: 10px;
+}
+
+.black-area {
+  background: #302c2c;
+  color: white;
+  font-size: 1em;
+  height: 70vh;
+  margin: 0;
+  padding: 0;
+}
+
+.logo-blanco {
+  padding-top: 10vh;
+}
+
+.list {
+  text-decoration: none;
+  list-style: none;
+}
+
+.list > li {
+  padding: 5px;
+}
+
+.logos {
+  margin-top: 15vh;
+}
+
+.logos > img {
+  padding: 5px;
+}
+
+.fa-fas > i {
+  padding: 5px;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
