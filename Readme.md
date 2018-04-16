@@ -12,7 +12,7 @@ Creación de una página web donde de acuerdo a una maquetación  sugerida tenia
 
 Esta versión se tiene que mostrar en dispositivos como PCs y Mac, en la cual muestra elementos que en versión móvil se ocultan.
 
-  ![versión Web](assets/images/appweb.png)
+  ![appweb](https://user-images.githubusercontent.com/32876693/38838474-ded47bc8-419b-11e8-96f4-5a6772ef06fc.png)
 
 ****Versión Web****
 
