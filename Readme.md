@@ -2,7 +2,7 @@
 
 ***DESCRIPCIÓN***
 
-Creación de una página web donde de acuerdo a una maquetación  sugerida teniamos que recrear dos versiones de ésta:
+Creación de una página web donde de acuerdo a una maquetación  sugerida teníamos que recrear dos versiones de ésta:
 
 °Versión Web
 
@@ -21,5 +21,5 @@ En la versión móvil todo el contenido de la maquetación se tiene que adaptar 
 ![wesión Web](assets/images/appmovil.png)
 
 
-**Desarrollado para:**
-**LABORATORIA**
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
