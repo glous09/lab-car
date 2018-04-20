@@ -22,4 +22,5 @@ En la versión móvil todo el contenido de la maquetación se tiene que adaptar 
 
 
 ## Desarrollado para 
+
 [Laboratoria](http://laboratoria.la)
